@@ -1,2 +1,3 @@
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=monolithprojects&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=monolithprojects&theme=nord&no-frame=true&margin-w=30"></img>
+</div>
