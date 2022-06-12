@@ -1,1 +1,1 @@
-<img src="space.gif" width=100% height=200>
+<img src="space.gif" width=100% height=180>
