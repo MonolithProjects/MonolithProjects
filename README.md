@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-23J8wD95zaQ/Uz1I66yhEhI/AAAAAAAAa68/ZA_jaJ7GHls/s1600/2001-a-space-odyssey-gifs.gif " width=100%><br>
+  <img src="https://github.com/MonolithProjects/MonolithProjects/blob/master/2001_%20Space%20Odyssey4.jpg" width=100%><br>
 </p>
